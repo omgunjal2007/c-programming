@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753867054 source:d:\pratical2\pratical2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
